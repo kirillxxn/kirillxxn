@@ -44,9 +44,9 @@
 ### Социальное
 
 <p align="left"> <a href="https://www.github.com/kirillxxn" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="http://www.instagram.com/kirillxxn" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instragram" title="Instragram" /> </picture> </a> <a href="https://vk.com/i__vladimirovich" target="_blank" rel="noreferrer">  <img src="https://cdn1.iconfinder.com/data/icons/unicons-line-vol-6/24/vk-512.png" width="32" height="32" alt="VK" title="VK" /> </a></p>
-### Badges
 
-<b>Статистика</b>
+
+### Статистика
 
 <a href="http://www.github.com/kirillxxn"><img src="https://github-readme-stats.vercel.app/api?username=kirillxxn&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kirillxxn's GitHub stats" /></a>
 
